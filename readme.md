@@ -1,5 +1,7 @@
 # Goalsetter MERN app
 
+A simple MERN stack application that performs create,update,read and delete operations where users can sign up and track their goals. 
+Built using React JS and Redux Toolkit
 
 
 ## Usage
